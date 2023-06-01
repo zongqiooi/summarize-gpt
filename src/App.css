@@ -17,6 +17,37 @@
   user-select: none; /* Standard syntax */
 }
 
+.footer-container {
+  /* color: #324d67; */
+  color: black;
+  text-align: center;
+  margin-top: 20px;
+  padding: 30px 10px;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  font-size: 13px;
+}
+
+.footer-container .icons {
+  font-size: 30px;
+  display: flex;
+  gap: 10px;
+}
+
+.footer-container .icons .linkedin:hover {
+  transform: scale(1.1, 1.1);
+  transition: transform 0.5s ease;
+}
+
+.footer-container .icons .github:hover {
+  transform: scale(1.1, 1.1);
+  transition: transform 0.5s ease;
+}
+
 .main {
   width: 100vw;
   min-height: 100vh;
