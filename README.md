@@ -1,6 +1,6 @@
 
-![summarize-gpt-zq vercel app_](https://github.com/zongqiooi/summarize-gpt/assets/95561298/08adb4ba-e8fe-4c1c-bc80-0c9d6b8fbf47)
-<!-- ![image](https://github.com/zongqiooi/summarize-gpt/assets/95561298/72ce4671-9a6d-4a8e-a90b-500a0e3a957c) -->
+<!-- ![summarize-gpt-zq vercel app_](https://github.com/zongqiooi/summarize-gpt/assets/95561298/08adb4ba-e8fe-4c1c-bc80-0c9d6b8fbf47) -->
+![image](https://github.com/zongqiooi/summarize-gpt/assets/95561298/9c2ccf87-0372-4ee7-98f9-12a5a64dd7cd)
 
 
 # Summarize-GPT
