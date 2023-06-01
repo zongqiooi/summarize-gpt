@@ -1,12 +1,15 @@
-![dark-light-mode-sorting-viz](https://github.com/zongqiooi/sorting-viz/assets/95561298/384e5196-dbd9-41d5-b3da-32524ac0a561)
+
+![summarize-gpt-zq vercel app_](https://github.com/zongqiooi/summarize-gpt/assets/95561298/08adb4ba-e8fe-4c1c-bc80-0c9d6b8fbf47)
+<!-- ![image](https://github.com/zongqiooi/summarize-gpt/assets/95561298/72ce4671-9a6d-4a8e-a90b-500a0e3a957c) -->
+
 
 # Summarize-GPT
 
-Summarize-GPT 📝
+Summarize-GPT 📝 is a web application that summarizes articles using GPT to simplify your reading and writing. It is a better tool for summarizing articles as it performs web scraping from the article first and then uses GPT to summarize it through Rapid API, instead of inferring by just analyzing the words in the URL like ChatGPT. In addition, it has a built-in Bionic Reading mode for a faster, better, and more focused reading experience 🤓
 
 # Visit the Website!
 
-https://summarize-gpt.vercel.app/
+https://summarize-gpt-zq.vercel.app/
 
 # Tech Stack Used
 
@@ -19,38 +22,38 @@ https://summarize-gpt.vercel.app/
 # Features
 
 - Article Summarizing
-- Bionic Reading Mode
+- Bionic Reading Mode ([link](https://www.indiatimes.com/trending/social-relevance/bionic-reading-for-speed-reading-595322.html))
 - Customized Text Highlighting
 - Storing Previous History
 - Copy to Clipboard
 
 ## Article Summarizing
 
-![customized-mouse](https://github.com/zongqiooi/sorting-viz/assets/95561298/56625aa5-6089-4cc8-8654-84882955586e)
+![summarize-gpt-zq vercel app_ (1)](https://github.com/zongqiooi/summarize-gpt/assets/95561298/457e6f2f-4f93-4a17-9a0c-6a915be8343f)
 
 ---
 
 ## Bionic Reading Mode
 
-![toaster](https://github.com/zongqiooi/sorting-viz/assets/95561298/a2321bca-d375-43ec-a709-cd6f9beac3cd)
+![summarize-gpt-zq vercel app_ (2)](https://github.com/zongqiooi/summarize-gpt/assets/95561298/f98d29d1-d572-43f6-9f6b-860efdd4c366)
 
 ---
 
 ## Customized Text Highlighting
 
-![unsorted](https://github.com/zongqiooi/sorting-viz/assets/95561298/5e71d674-ba2e-4a19-b775-f33554d1ccfc)
+![summarize-gpt-zq vercel app_ (3)](https://github.com/zongqiooi/summarize-gpt/assets/95561298/154aa476-a22e-46ba-93c7-0f89a0061c8b)
 
 ---
 
 ## Storing Previous History
 
-![mergesort](https://github.com/zongqiooi/sorting-viz/assets/95561298/edcea167-225d-46e1-91ae-14b6d36c2814)
+![summarize-gpt-zq vercel app_ (4)](https://github.com/zongqiooi/summarize-gpt/assets/95561298/58e4b8e2-7beb-46f7-9d60-0a3214e4a85c)
 
 ---
 
 ## Copy to Clipboard
 
-![quicksort](https://github.com/zongqiooi/sorting-viz/assets/95561298/c7e60fcd-a4eb-4c54-899b-410038f08c30)
+![image](https://github.com/zongqiooi/summarize-gpt/assets/95561298/20e8bb5a-9014-48d0-9304-4ab8a432b506)
 
 ---
 
@@ -64,5 +67,5 @@ https://summarize-gpt.vercel.app/
    `code .`
 4. Install all the project dependencies  
    `npm install`
-5. Run the project with Vite.js
+5. Run the project with Vite.js  
    `npm run dev`
