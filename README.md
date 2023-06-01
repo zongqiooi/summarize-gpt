@@ -7,7 +7,7 @@
 
 Summarize-GPT 📝 is a web application that summarizes articles using GPT to simplify your reading and writing. 
 
-It is a better tool for summarizing articles as it performs web scraping from the article first and then uses GPT to summarize it through Rapid API, instead of inferring by just analyzing the words in the URL like ChatGPT. 
+It is a better tool for summarizing articles as it performs web scraping from the article first and then uses GPT to summarize it through Rapid API, instead of just inferring through analyzing the words in the URL like ChatGPT. 
 
 In addition, it has a built-in Bionic Reading mode for a faster, better, and more focused reading experience 🤓
 
